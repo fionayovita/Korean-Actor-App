@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Korean Actor</string>
+    <string name="actor_name">Actor Name</string>
+    <string name="detail">Detail</string>
+    <string name="profile">Profile</string>
+    <string name="profile_name">Fiona Yovita Syafri</string>
+    <string name="profile_email">fionayovita2311@gmail.com</string>
+    <string name="name">Name</string>
+    <string name="about">About</string>
+    <string name="born">Born</string>
+    <string name="drama">Latest Drama</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="text_splash">Korean Actors</string>
+    <string name="desc">Image View</string>
+</resources>
